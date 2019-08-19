@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCRUD", "WebApiCRUD\WebApiCRUD.csproj", "{948B1300-B004-42D3-975F-CAC0E4EA261B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web ApiMVC", "Web ApiMVC\Web ApiMVC.csproj", "{FD25E143-B770-4324-929B-7389319726F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948B1300-B004-42D3-975F-CAC0E4EA261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948B1300-B004-42D3-975F-CAC0E4EA261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948B1300-B004-42D3-975F-CAC0E4EA261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948B1300-B004-42D3-975F-CAC0E4EA261B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD25E143-B770-4324-929B-7389319726F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD25E143-B770-4324-929B-7389319726F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD25E143-B770-4324-929B-7389319726F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD25E143-B770-4324-929B-7389319726F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F9CAD9-9713-4C95-ADB6-9CCA709F161F}
+	EndGlobalSection
+EndGlobal
